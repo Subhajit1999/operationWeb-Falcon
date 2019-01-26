@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#c7c7c7</color>
+    <color name="colorAccent">#7b1fa2</color>
+
+    <!-- Custom colors-->
+    <color name="dark_violet">#FF39006E</color>
+    <color name="violet">#FF3D0271</color>
+    <color name="light_violet">#7b1fa2</color>
+    <color name="white">#fff</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="dark_grey">#424242</color>
+
+</resources>

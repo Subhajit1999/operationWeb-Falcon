@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FalconWeb</string>
+
+    <string name="search_hint">Search or enter Url</string>
+    <string name="error_location">Error! Check location properly</string>
+    <string name="location_rationale">Please grant location permission to use the Weather Forecast feaure. Proceed ?</string>
+
+
+</resources>
